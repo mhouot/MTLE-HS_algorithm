@@ -36,12 +36,12 @@ shinyUI(fluidPage(
     br(), br(),
     p("In order to prospectively validate this algorithm at broad international level, we encourage all users to send us their anonymised patient data as an Excel file to this email address:", strong("margaux.cheval@aphp.fr", style = "color:green;font-size:16px"), ". We may contact you to obtain follow-up data on these patients."),
     br(), 
-    p(em("Notes. "), "This algorithm was developped in a cohort of MTLE-HS patients with median age at onset of 10 [", em("Q1;Q3"), ": 5;18] (range: 0-73)")#,
+    p(em("Notes. "), "This algorithm was developped in a cohort of MTLE-HS patients with median age at onset of 10 [", em("Q1;Q3"), ": 5;18] (range: 0-73)"),
    # tags$div(
    #     "Link to the publication: ",
    #     tags$a(href="https://pubmed.ncbi.nlm.nih.gov", 
    #            "https://pubmed.ncbi.nlm.nih.gov")
-    ),
+    #),
     
     br(),
 
