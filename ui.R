@@ -126,8 +126,8 @@ shinyUI(fluidPage(
                  br(),  
                  tags$div(
                      "A test file named data_test.xlsx is available at the link: ",
-                     tags$a(href="https://github.com/mhouot?tab=repositories", 
-                            "https://github.com/mhouot?tab=repositories")),
+                     tags$a(href="https://github.com/mhouot/MTLE-HS_algorithm/tree/main/data", 
+                            "https://github.com/mhouot/MTLE-HS_algorithm/tree/main/data")),
                  br(), 
                  h3("Instructions for data file completion"),
                  p('Please find the dictionnary variables to complete the xlsx file: '),
