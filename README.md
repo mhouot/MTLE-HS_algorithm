@@ -4,7 +4,7 @@ Algorithm from the paper *"Early identification of seizure freedom with medical 
 
 ## Installation
 
-First, you need to install R on your computer from https://cran.r-project.org
+First, you need to install R on your computer from https://cran.r-project.org      
 Then, you need to install the **shiny** package in R:
 
 ```R
