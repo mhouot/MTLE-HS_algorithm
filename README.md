@@ -19,6 +19,12 @@ library(shiny)
 shiny::runGitHub("MTLE-HS_algorithm", "mhouot")
 ```
 
+Choose between two tabs:    
+
+ 1. *Select one patient's data*: to obtain the probability of being medically seizure-free by entering patient data one by one
+ 2. *Upload a file of the data patients*: to obtain the probability of being medically seizure-free of several patient at a time. See the data_test.xlsx file in the `datas` folder for example.
+
+
 ## License
 
 The shiny package as a whole is licensed under the GPLv3. See the [LICENSE](LICENSE) file for more details.
