@@ -1,6 +1,7 @@
 # MTLE-HS_algorithm
-Algorithm from the paper *"Early identification of seizure freedom with medical treatment in patients with mesial temporal lobe epilepsy and hippocampal sclerosis (MTLE HS)"*
+Algorithm from the paper *"Early identification of seizure freedom with medical treatment in patients with mesial temporal lobe epilepsy and hippocampal sclerosis (MTLE HS)"*       
 
+This Algorithm is available without R dowload on: https://mhouot.shinyapps.io/mtle-hs_algorithm/
 
 ## Installation
 
